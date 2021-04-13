@@ -1,7 +1,6 @@
 # MCMC
-### O objetivo deste artigo ´e modelar a varia¸c˜ao di´aria da cota¸c˜ao do pre¸co de
-compra d´olar americano em reais brasileiros; o pre¸co de compra ´e igual ao pre¸co
-de venda mais uma constante. Para isso utilizarei um m´etodo de estima¸c˜ao de
-parˆametros conhecido como MCMC - Monte Carlo Markov Chains. Tamb´em
-usarei uma vers˜ao levemente modificada do m´etodo que acabei considerando
-melhor.
+### O objetivo deste artigo é modelar a variação diária da cotação do preço de
+compra dólar americano em reais brasileiros. Para isso utilizarei um método de estimação de
+parâmetros conhecido como MCMC - Monte Carlo Markov Chains. Também
+usarei uma versão levemente modificada do método que acabei considerando
+melhor. Tudo isso está implementando em python.
